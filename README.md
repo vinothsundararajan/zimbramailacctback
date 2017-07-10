@@ -1,4 +1,5 @@
-# zimbramailacctback.sh
+# zimbra accounts mail backuping by using the above script. 
+
 zimbra mail accounts backup script (EAZY SECURE)
 
 
